@@ -1,2 +1,2 @@
-# BookieMonster
-Full Stack Application using ReactJS, TypeScript, Node, MongoDB, Express, and many more
+
+<!-- Hello! This is a simple application. If you encounter any issues accessing the code, please don’t hesitate to reach out to me. I’m currently working on modifying the designs and other elements, so I may push another set of code updates soon. I didn't include the node_modules folder because of capacity issues so make sure to install the dependencies. The rest of the codes are already in here -->
